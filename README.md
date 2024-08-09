@@ -5,8 +5,6 @@ Surya Dhaka: My Portfolio
 
 A showcase of my projects, abilities and creativity in programming
 
-[![](images/website scraper image.jpg)](#)
-
 Hacker News Website Scraper
 ---------------------------
 
@@ -19,16 +17,14 @@ Password Checker
 
 A powerful script to check the strength of a given password. Uses APIs and SHA-1 Hashing to securely compare inputted passwords with a database to determine the frequency that password is used. Based on this, it determines the strength of the password
 
-[View Code](/Users/suryadhaka/Documents/password_checker.py)
-
-[![](images/JPG to PNG converter image.jpg)](#)
+[View Code](https://github.com/Surya-Dhaka/suryadhaka.github.io/blob/main/password_checker.py)
 
 JPG to PNG Converter
 --------------------
 
 A programme that converts images from JPG to PNG and stores them in a newly created folder. The function accepts a folder of JPG images and the name of the new folder as arguments
 
-[View Code](/Users/suryadhaka/Documents/JPGtoPNGconverter.py)
+[View Code](https://github.com/Surya-Dhaka/suryadhaka.github.io/blob/main/website_scraper.py)
 
 Get in touch
 ------------
