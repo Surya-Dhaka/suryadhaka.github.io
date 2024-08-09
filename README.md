@@ -12,9 +12,7 @@ Hacker News Website Scraper
 
 Data scraping programme that uses Hacker News' API and the 'requests' library to retrieve the latest news from the Hacker News website. BeautifulSoup is then used to parse the HTML content to extract important story titles, URLs and votes. The script then filters and returns the most popular articles, sorting them in descending order
 
-[View code](/Users/suryadhaka/Documents/website_scraper.py)
-
-[![](images/Password checker image.jpg)](#)
+[View code](https://github.com/Surya-Dhaka/suryadhaka.github.io/blob/main/JPGtoPNGconverter.py)
 
 Password Checker
 ----------------
