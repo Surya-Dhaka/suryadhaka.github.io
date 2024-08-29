@@ -8,7 +8,8 @@ A showcase of my projects, abilities and creativity in programming
 Iris Data Machine Learning Model
 ---------------------------
 Created a machine learning model to predict the species of an iris flower given certain data on the sample flower's features. I split the data into 'train' and 'test' groups, and then used the 'K-Neighbours Classifier' to create a machine learning model that was trained on this data. The model has an accuracy of 95%. 
-[View code](https://github.com/Surya-Dhaka/suryadhaka.github.io/blob/main/iris_ML)
+
+[View code](https://github.com/Surya-Dhaka/suryadhaka.github.io/blob/main/iris_ML.ipynb)
 
 FIFA-19 Value Scout
 ---------------------------
