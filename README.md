@@ -5,6 +5,11 @@ Surya Dhaka: My Portfolio
 
 A showcase of my projects, abilities and creativity in programming
 
+Iris Data Machine Learning Model
+---------------------------
+Created a machine learning model to predict the species of an iris flower given certain data on the sample flower's features. I split the data into 'train' and 'test' groups, and then used the 'K-Neighbours Classifier' to create a machine learning model that was trained on this data. The model has an accuracy of 95%. 
+[View code](https://github.com/Surya-Dhaka/suryadhaka.github.io/blob/main/iris_ML)
+
 FIFA-19 Value Scout
 ---------------------------
 A programme that incorporates data science methods to analyse the value and wages of football players on FIFA-19 and return the optimal players for a club to sign. The pandas library is used to clean and organise data by the gap between the value and wage of a player. I then used the seaborn library to visualise this data on a scatterplot, building  a feature to hover over points on the scatterplot to reveal further information about each player.
